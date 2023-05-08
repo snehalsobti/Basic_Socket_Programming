@@ -12,5 +12,5 @@ where Server and Client are the names of executable files that will be created a
       _where 8080 is the port number and 15000 is the timeout in milliseconds_  
 * Type the following on the other terminal :-     ``` ./Client loopback 8080 Okay ```    
       _where loopback is the server address (it is the local machine i.e 127.0.0.1), 8080 is the port number and Okay is the message to be sent to the client_   
-## To know more --> check the documentation (comments) in the source code files
+* ___To know more --> check the documentation (comments) in the source code files___
 
